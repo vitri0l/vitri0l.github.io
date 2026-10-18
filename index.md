@@ -1,5 +1,5 @@
 ---
-title: "x86-64 Windows paging — virtual to physical walk (PoC)"
+title: "x86-64 Windows paging — virtual to physical walk (PoC)".
 date: 2025-09-27
 categories: ["kernel", "windows", "memory", "reverse-engineering"]
 ---
